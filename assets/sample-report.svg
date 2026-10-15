@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 370" fill="none">
+<rect width="760" height="370" rx="8" fill="#f0e9ed"/>
+<rect x="25" y="25" width="710" height="48" rx="4" fill="#e2d2dc"/>
+<text x="43" y="54" fill="#633b54" font-family="Arial,sans-serif" font-size="15">Demo report</text>
+<rect x="530" y="35" width="189" height="28" rx="14" fill="#8f2938"/>
+<text x="625" y="54" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="11">Illustrative data only</text>
+<text x="31" y="105" fill="#5c3e50" font-family="Arial,sans-serif" font-size="15">Home services / Sample lead-generation campaign</text>
+<text x="31" y="127" fill="#7d6073" font-family="Arial,sans-serif" font-size="11">1–14 September 2026 · Not an Ads Manager export</text>
+<path d="M31 151h698" stroke="#cbb2c1"/>
+<text x="32" y="181" fill="#7d6073" font-family="Arial,sans-serif" font-size="11">Sample spend</text><text x="32" y="216" fill="#4e2f42" font-family="Arial,sans-serif" font-size="29">EGP 12,500</text>
+<text x="300" y="181" fill="#7d6073" font-family="Arial,sans-serif" font-size="11">Sample leads</text><text x="300" y="216" fill="#4e2f42" font-family="Arial,sans-serif" font-size="29">312</text>
+<text x="540" y="181" fill="#7d6073" font-family="Arial,sans-serif" font-size="11">Sample cost per lead</text><text x="540" y="216" fill="#4e2f42" font-family="Arial,sans-serif" font-size="29">EGP 40.06</text>
+<path d="M31 244h698" stroke="#cbb2c1"/>
+<rect x="31" y="266" width="698" height="67" rx="4" fill="#e2d2dc"/>
+<text x="48" y="292" fill="#633b54" font-family="Arial,sans-serif" font-size="12">Your real evidence belongs here.</text>
+<text x="48" y="314" fill="#7d6073" font-family="Arial,sans-serif" font-size="11">Replace this mock report with a dated, redacted screenshot before claiming actual results.</text>
+</svg>

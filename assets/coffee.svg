@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 800" fill="none">
+<defs>
+ <linearGradient id="bg" x1="40" y1="30" x2="640" y2="800" gradientUnits="userSpaceOnUse"><stop stop-color="#ad5a62"/><stop offset=".65" stop-color="#782b3d"/><stop offset="1" stop-color="#501b2c"/></linearGradient>
+ <linearGradient id="table" x1="0" y1="540" x2="600" y2="800"><stop stop-color="#c18578"/><stop offset="1" stop-color="#8d4d50"/></linearGradient>
+ <linearGradient id="bag" x1="229" y1="290" x2="445" y2="660" gradientUnits="userSpaceOnUse"><stop stop-color="#f0d4b2"/><stop offset=".5" stop-color="#e6c79f"/><stop offset="1" stop-color="#bd9273"/></linearGradient>
+ <linearGradient id="side" x1="400" y1="350" x2="465" y2="640"><stop stop-color="#c59d7d"/><stop offset="1" stop-color="#a97c66"/></linearGradient>
+ <linearGradient id="cup" x1="390" y1="570" x2="490" y2="731"><stop stop-color="#f9e6d0"/><stop offset="1" stop-color="#cbaa91"/></linearGradient>
+ <filter id="shadow"><feGaussianBlur stdDeviation="17"/></filter>
+</defs>
+<path fill="url(#bg)" d="M0 0h640v800H0z"/>
+<path d="m-60 0 400 0 310 475-215 115L-60 0Z" fill="#edb99a" opacity=".055"/>
+<path d="m0 87 590 580M97 0l543 530" stroke="#f7c1a7" stroke-width="2" opacity=".07"/>
+<circle cx="520" cy="163" r="121" stroke="#eabbb0" opacity=".12"/>
+<path d="M0 580c145-40 401-24 640-100v320H0V580Z" fill="url(#table)"/>
+<ellipse cx="359" cy="687" rx="202" ry="35" fill="#391925" opacity=".32" filter="url(#shadow)"/>
+<path d="m225 300 195 11 33 52-21 285-211-11-13-288 17-49Z" fill="url(#bag)"/>
+<path d="m420 311 33 52-21 285-36-30 12-275 12-32Z" fill="url(#side)"/>
+<path d="m225 300 195 11-12 32-186-12 3-31Z" fill="#f3dabc"/>
+<path d="m224 321 184 11m-179-20 181 11" stroke="#bd9078" opacity=".7"/>
+<path d="m228 405 174 9-7 170-174-7 7-172Z" fill="#702b3c"/>
+<path d="m244 422 140 7-5 130-140-6 5-131Z" stroke="#efbca3" opacity=".35"/>
+<text x="314" y="471" fill="#f7e4cf" font-family="Georgia,serif" font-size="33" text-anchor="middle" transform="rotate(3 314 471)">saba</text>
+<text x="313" y="507" fill="#f7e4cf" font-family="Georgia,serif" font-style="italic" font-size="33" text-anchor="middle" transform="rotate(3 313 507)">coffee</text>
+<path d="M294 533c11-9 22-9 33 1" stroke="#edc8ae" stroke-width="1.4"/><path d="M310 524v20" stroke="#edc8ae" stroke-width="1.4"/>
+<path d="m258 605 99 5" stroke="#946453" opacity=".5"/>
+<ellipse cx="466" cy="704" rx="101" ry="21" fill="#dec0a5"/>
+<ellipse cx="466" cy="699" rx="77" ry="12" fill="#b58a76" opacity=".4"/>
+<path d="M505 605c62-19 81 47 36 65l-26-1-6-18 21 1c21-6 16-35-5-29l-20-18Z" fill="#e1c2a7"/>
+<path d="M391 602h131l-14 76c-3 27-92 29-103 0l-14-76Z" fill="url(#cup)"/>
+<ellipse cx="456" cy="603" rx="65" ry="20" fill="#f1d8be"/>
+<ellipse cx="456" cy="605" rx="55" ry="14" fill="#673b2f"/>
+<ellipse cx="457" cy="607" rx="45" ry="10" fill="#98634b"/>
+<path d="M435 557c-20-23 19-37 6-61m28 64c-18-24 19-35 6-58" stroke="#f4d5c2" stroke-width="3" stroke-linecap="round" opacity=".38"/>
+<path d="M117 692c-20-19-33-6-21 8s29 4 21-8Zm17 23c-18-15-29 1-15 12s25-2 15-12Z" fill="#562b2c"/>
+<path d="m99 691 11 9m13 16 5 7" stroke="#b57c63" stroke-width="1.5"/>
+</svg>

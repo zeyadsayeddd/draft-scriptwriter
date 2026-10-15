@@ -1,0 +1,11 @@
+{
+  "name": "scriptwriter-portfolio-draft",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/serve.cjs",
+    "start": "node scripts/serve.cjs",
+    "check": "node --check content/portfolio.js && node --check performance.js && node --check app.js && node --check scripts/serve.cjs",
+    "test": "node --test tests/*.test.cjs"
+  }
+}
