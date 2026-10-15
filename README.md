@@ -2,6 +2,8 @@
 
 A buildless static portfolio with centered navigation, a short profile, visual script previews, per-brand retention averages, feedback, and a concise About. Meta ads figures stay visible; full project details and campaign evidence open on demand.
 
+GitHub Pages: https://zeyadsayeddd.github.io/draft-scriptwriter/
+
 ## Preview
 
 ```sh
@@ -36,7 +38,7 @@ npm test
 
 Five tests cover scripts, identity and attribution, normalized equal-weight cohort averaging, disjoint and complete video records, and HTTP/media-range behavior. Browser and accessibility verification is recorded in `docs/verification.md`. Final screenshots include desktop, mobile, viewer attention, Meta ads, and a case study.
 
-Any static host can serve this folder, including under a subdirectory. No public site has been deployed. Original SVG illustrations and self-hosted fonts are local; font licenses are retained in `assets/fonts/`.
+Any static host can serve this folder, including under a subdirectory. GitHub Pages is configured to publish this repository's `main` branch at the URL above. Original SVG illustrations and self-hosted fonts are local; font licenses are retained in `assets/fonts/`.
 
 ## GitHub Pages
 
